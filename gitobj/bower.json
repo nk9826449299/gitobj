@@ -1,0 +1,21 @@
+{
+  "name": "gitobj",
+  "description": "github",
+  "main": "index.js",
+  "authors": [
+    "me"
+  ],
+  "license": "MIT",
+  "keywords": [
+    "gitobj"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

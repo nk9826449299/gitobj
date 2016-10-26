@@ -1,0 +1,22 @@
+{
+  "name": "gitobj",
+  "version": "1.0.0",
+  "description": "github",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "http://127.0.0.1/gitobj/"
+  },
+  "keywords": [
+    "gitobj"
+  ],
+  "author": "me",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.14.0",
+    "serve-favicon": "^2.3.0"
+  }
+}
